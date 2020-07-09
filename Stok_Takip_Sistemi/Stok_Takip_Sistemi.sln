@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stok_Takip_Sistemi", "Stok_Takip_Sistemi\Stok_Takip_Sistemi.csproj", "{302C3B83-F212-4384-B38F-ED8FDA882886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{302C3B83-F212-4384-B38F-ED8FDA882886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302C3B83-F212-4384-B38F-ED8FDA882886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302C3B83-F212-4384-B38F-ED8FDA882886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302C3B83-F212-4384-B38F-ED8FDA882886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9D7447-A285-4694-A878-0FA70E5723EA}
+	EndGlobalSection
+EndGlobal

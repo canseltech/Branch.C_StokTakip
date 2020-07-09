@@ -1,0 +1,325 @@
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\Stok_Takip_Sistemi.exe.config
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\Stok_Takip_Sistemi.exe
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\Stok_Takip_Sistemi.pdb
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csprojAssemblyReference.cache
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmAna.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmGiris.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.Properties.Resources.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csproj.GenerateResource.cache
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.exe.licenses
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csproj.CoreCompileInputs.cache
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csproj.CopyComplete
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.exe
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.pdb
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmHareketler.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmSatis.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmAnasayfa.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmFaturalar.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmFirmalar.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmGiderler.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmKasa.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmMüşteriler.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmRaporlar.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmRehber.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmStoklar.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmUrunler.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\Stok_Takip_Sistemi.exe.config
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\Stok_Takip_Sistemi.exe
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\Stok_Takip_Sistemi.pdb
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csprojAssemblyReference.cache
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmAna.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmAnasayfa.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmFaturalar.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmFirmalar.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmGiderler.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmGiris.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmHareketler.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmKasa.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmMüşteriler.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmRaporlar.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmRehber.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmSatis.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmStoklar.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmUrunler.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.Properties.Resources.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csproj.GenerateResource.cache
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.exe.licenses
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csproj.CoreCompileInputs.cache
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csproj.CopyComplete
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.exe
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.pdb
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmFirmaSec.resources
+D:\Kullanıcılar\Gülşah\source\repos\YAZILIM REPO\Deneme-2\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmMüşteriSec.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\Stok_Takip_Sistemi.exe.config
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\Stok_Takip_Sistemi.exe
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\Stok_Takip_Sistemi.pdb
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csprojAssemblyReference.cache
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmAna.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmAnasayfa.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmFaturalar.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmFirmalar.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmFirmaSec.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmGiderler.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmGiris.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmHareketler.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmKasa.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmMüşteriler.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmMüşteriSec.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmRaporlar.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmRehber.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmSatis.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmStoklar.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.FrmUrunler.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.Properties.Resources.resources
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csproj.GenerateResource.cache
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.exe.licenses
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csproj.CopyComplete
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.exe
+C:\Users\lenovo\source\Stok_Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.pdb

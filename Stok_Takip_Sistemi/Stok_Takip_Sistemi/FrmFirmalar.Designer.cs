@@ -50,6 +50,7 @@
             this.txtID = new DevExpress.XtraEditors.TextEdit();
             this.labelControl7 = new DevExpress.XtraEditors.LabelControl();
             this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
+            this.btntemizlefirma = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)(this.txtkayıttarihi.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txttelefon.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtfirmaadı.Properties)).BeginInit();
@@ -125,7 +126,7 @@
             // btngüncellefirma
             // 
             this.btngüncellefirma.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btngüncellefirma.ImageOptions.Image")));
-            this.btngüncellefirma.Location = new System.Drawing.Point(35, 571);
+            this.btngüncellefirma.Location = new System.Drawing.Point(289, 518);
             this.btngüncellefirma.Name = "btngüncellefirma";
             this.btngüncellefirma.Size = new System.Drawing.Size(197, 46);
             this.btngüncellefirma.TabIndex = 7;
@@ -278,11 +279,22 @@
             this.groupControl2.TabIndex = 14;
             this.groupControl2.Text = "Yetkili Bilgileri";
             // 
+            // btntemizlefirma
+            // 
+            this.btntemizlefirma.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image")));
+            this.btntemizlefirma.Location = new System.Drawing.Point(289, 465);
+            this.btntemizlefirma.Name = "btntemizlefirma";
+            this.btntemizlefirma.Size = new System.Drawing.Size(197, 46);
+            this.btntemizlefirma.TabIndex = 15;
+            this.btntemizlefirma.Text = "TEMİZLE";
+            this.btntemizlefirma.Click += new System.EventHandler(this.btntemizlefirma_Click);
+            // 
             // FrmFirmalar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1805, 629);
+            this.Controls.Add(this.btntemizlefirma);
             this.Controls.Add(this.groupControl2);
             this.Controls.Add(this.groupControl1);
             this.Controls.Add(this.gridControlfirma);
@@ -334,5 +346,6 @@
         private DevExpress.XtraEditors.GroupControl groupControl2;
         private DevExpress.XtraEditors.TextEdit txtID;
         private DevExpress.XtraEditors.LabelControl labelControl7;
+        private DevExpress.XtraEditors.SimpleButton btntemizlefirma;
     }
 }

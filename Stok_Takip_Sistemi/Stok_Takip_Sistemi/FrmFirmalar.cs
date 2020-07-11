@@ -31,6 +31,7 @@ namespace Stok_Takip_Sistemi
             txtmail.Text = "";
         }
 
+
         private void btnkaydetfirma_Click(object sender, EventArgs e)
         {
             if (baglanti.State == ConnectionState.Closed)  // bağlantı durumunu kontrol et eğer kapalı ise
@@ -43,7 +44,6 @@ namespace Stok_Takip_Sistemi
                 cmd.Dispose();
                 baglanti.Close();
                 listeleme();
-                temizleme();
                 MessageBox.Show("Kayıt İşlemi Tamamlandı!", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
@@ -62,7 +62,10 @@ namespace Stok_Takip_Sistemi
                 baglanti.Close();
             }
         }
-
+        private void FrmFirmalar_Load(object sender, EventArgs e)
+        {
+            listeleme();
+        }
 
         private void btnsilfirma_Click(object sender, EventArgs e)
         {
@@ -105,16 +108,8 @@ namespace Stok_Takip_Sistemi
                 cmd.Dispose();
                 baglanti.Close();
                 MessageBox.Show("Kayıt Güncellendi!", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                temizleme();
                 listeleme();
             }
-        }
-
-
-
-        private void FrmFirmalar_Load(object sender, EventArgs e)
-        {
-            listeleme();
         }
 
         private void gridViewFirma_FocusedRowObjectChanged_1(object sender, DevExpress.XtraGrid.Views.Base.FocusedRowObjectChangedEventArgs e)
@@ -130,6 +125,11 @@ namespace Stok_Takip_Sistemi
                 txtyetkili.Text = dr["Yetkili"].ToString();
                 txtmail.Text = dr["Mail"].ToString();
             }
+        }
+
+        private void btntemizlefirma_Click(object sender, EventArgs e)
+        {
+            temizleme();
         }
     }
 }

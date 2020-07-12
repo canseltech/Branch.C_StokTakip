@@ -28,21 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmGiderler));
             this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
-            this.simpleButton4 = new DevExpress.XtraEditors.SimpleButton();
-            this.simpleButton3 = new DevExpress.XtraEditors.SimpleButton();
-            this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
-            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.cmbyılgider = new DevExpress.XtraEditors.ComboBoxEdit();
+            this.cmbaygider = new DevExpress.XtraEditors.ComboBoxEdit();
+            this.txtekstragider = new System.Windows.Forms.TextBox();
+            this.btntemizlegider = new DevExpress.XtraEditors.SimpleButton();
+            this.btngüncellegider = new DevExpress.XtraEditors.SimpleButton();
+            this.btnsilgider = new DevExpress.XtraEditors.SimpleButton();
+            this.btnkaydetgider = new DevExpress.XtraEditors.SimpleButton();
+            this.rtxnotgider = new System.Windows.Forms.RichTextBox();
+            this.txtinternetgider = new System.Windows.Forms.TextBox();
+            this.txtmaaşgider = new System.Windows.Forms.TextBox();
+            this.txtsugider = new System.Windows.Forms.TextBox();
+            this.txtdoğalgazgider = new System.Windows.Forms.TextBox();
+            this.txtelektrikgider = new System.Windows.Forms.TextBox();
+            this.txtIDgider = new System.Windows.Forms.TextBox();
             this.labelControl10 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl9 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl8 = new DevExpress.XtraEditors.LabelControl();
@@ -53,31 +55,36 @@
             this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
-            this.gridControl1 = new DevExpress.XtraGrid.GridControl();
-            this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.gridControlgider = new DevExpress.XtraGrid.GridControl();
+            this.stokveritabaniDataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.stok_veritabaniDataSet = new Stok_Takip_Sistemi.stok_veritabaniDataSet();
+            this.gridViewgider = new DevExpress.XtraGrid.Views.Grid.GridView();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
             this.panelControl1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cmbyılgider.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cmbaygider.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridControlgider)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.stokveritabaniDataSetBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.stok_veritabaniDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridViewgider)).BeginInit();
             this.SuspendLayout();
             // 
             // panelControl1
             // 
-            this.panelControl1.Controls.Add(this.textBox2);
-            this.panelControl1.Controls.Add(this.simpleButton4);
-            this.panelControl1.Controls.Add(this.simpleButton3);
-            this.panelControl1.Controls.Add(this.simpleButton2);
-            this.panelControl1.Controls.Add(this.simpleButton1);
-            this.panelControl1.Controls.Add(this.comboBox2);
-            this.panelControl1.Controls.Add(this.comboBox1);
-            this.panelControl1.Controls.Add(this.richTextBox1);
-            this.panelControl1.Controls.Add(this.textBox7);
-            this.panelControl1.Controls.Add(this.textBox8);
-            this.panelControl1.Controls.Add(this.textBox5);
-            this.panelControl1.Controls.Add(this.textBox6);
-            this.panelControl1.Controls.Add(this.textBox3);
-            this.panelControl1.Controls.Add(this.textBox1);
+            this.panelControl1.Controls.Add(this.cmbyılgider);
+            this.panelControl1.Controls.Add(this.cmbaygider);
+            this.panelControl1.Controls.Add(this.txtekstragider);
+            this.panelControl1.Controls.Add(this.btntemizlegider);
+            this.panelControl1.Controls.Add(this.btngüncellegider);
+            this.panelControl1.Controls.Add(this.btnsilgider);
+            this.panelControl1.Controls.Add(this.btnkaydetgider);
+            this.panelControl1.Controls.Add(this.rtxnotgider);
+            this.panelControl1.Controls.Add(this.txtinternetgider);
+            this.panelControl1.Controls.Add(this.txtmaaşgider);
+            this.panelControl1.Controls.Add(this.txtsugider);
+            this.panelControl1.Controls.Add(this.txtdoğalgazgider);
+            this.panelControl1.Controls.Add(this.txtelektrikgider);
+            this.panelControl1.Controls.Add(this.txtIDgider);
             this.panelControl1.Controls.Add(this.labelControl10);
             this.panelControl1.Controls.Add(this.labelControl9);
             this.panelControl1.Controls.Add(this.labelControl8);
@@ -89,140 +96,190 @@
             this.panelControl1.Controls.Add(this.labelControl2);
             this.panelControl1.Controls.Add(this.labelControl1);
             this.panelControl1.Location = new System.Drawing.Point(4, 1);
-            this.panelControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl1.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl1.Name = "panelControl1";
             this.panelControl1.Size = new System.Drawing.Size(407, 628);
             this.panelControl1.TabIndex = 0;
             // 
-            // simpleButton4
+            // cmbyılgider
             // 
-            this.simpleButton4.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton4.ImageOptions.Image")));
-            this.simpleButton4.Location = new System.Drawing.Point(205, 485);
-            this.simpleButton4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.simpleButton4.Name = "simpleButton4";
-            this.simpleButton4.Size = new System.Drawing.Size(163, 54);
-            this.simpleButton4.TabIndex = 26;
-            this.simpleButton4.Text = "TEMİZLE";
+            this.cmbyılgider.Location = new System.Drawing.Point(109, 96);
+            this.cmbyılgider.Name = "cmbyılgider";
+            this.cmbyılgider.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.cmbyılgider.Properties.Appearance.Options.UseFont = true;
+            this.cmbyılgider.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.cmbyılgider.Properties.Items.AddRange(new object[] {
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "2025",
+            "2026",
+            "2027",
+            "2028",
+            "2029",
+            "2030"});
+            this.cmbyılgider.Size = new System.Drawing.Size(276, 28);
+            this.cmbyılgider.TabIndex = 29;
             // 
-            // simpleButton3
+            // cmbaygider
             // 
-            this.simpleButton3.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton3.ImageOptions.Image")));
-            this.simpleButton3.Location = new System.Drawing.Point(33, 546);
-            this.simpleButton3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.simpleButton3.Name = "simpleButton3";
-            this.simpleButton3.Size = new System.Drawing.Size(163, 54);
-            this.simpleButton3.TabIndex = 25;
-            this.simpleButton3.Text = "GÜNCELLE";
+            this.cmbaygider.Location = new System.Drawing.Point(109, 59);
+            this.cmbaygider.Name = "cmbaygider";
+            this.cmbaygider.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.cmbaygider.Properties.Appearance.Options.UseFont = true;
+            this.cmbaygider.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.cmbaygider.Properties.Items.AddRange(new object[] {
+            "OCAK",
+            "ŞUBAT",
+            "MART",
+            "NİSAN",
+            "MAYIS",
+            "HAZİRAN",
+            "TEMMUZ",
+            "AĞUSTOS",
+            "EYLÜL",
+            "EKİM",
+            "KASIM",
+            "ARALIK"});
+            this.cmbaygider.Size = new System.Drawing.Size(276, 28);
+            this.cmbaygider.TabIndex = 28;
             // 
-            // simpleButton2
+            // txtekstragider
             // 
-            this.simpleButton2.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton2.ImageOptions.Image")));
-            this.simpleButton2.Location = new System.Drawing.Point(205, 546);
-            this.simpleButton2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.simpleButton2.Name = "simpleButton2";
-            this.simpleButton2.Size = new System.Drawing.Size(163, 54);
-            this.simpleButton2.TabIndex = 24;
-            this.simpleButton2.Text = "SİL";
+            this.txtekstragider.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtekstragider.Location = new System.Drawing.Point(109, 328);
+            this.txtekstragider.Margin = new System.Windows.Forms.Padding(4);
+            this.txtekstragider.Name = "txtekstragider";
+            this.txtekstragider.Size = new System.Drawing.Size(276, 30);
+            this.txtekstragider.TabIndex = 27;
             // 
-            // simpleButton1
+            // btntemizlegider
             // 
-            this.simpleButton1.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image")));
-            this.simpleButton1.Location = new System.Drawing.Point(33, 485);
-            this.simpleButton1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.simpleButton1.Name = "simpleButton1";
-            this.simpleButton1.Size = new System.Drawing.Size(163, 54);
-            this.simpleButton1.TabIndex = 23;
-            this.simpleButton1.Text = "KAYDET";
+            this.btntemizlegider.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btntemizlegider.ImageOptions.Image")));
+            this.btntemizlegider.Location = new System.Drawing.Point(205, 485);
+            this.btntemizlegider.Margin = new System.Windows.Forms.Padding(4);
+            this.btntemizlegider.Name = "btntemizlegider";
+            this.btntemizlegider.Size = new System.Drawing.Size(163, 54);
+            this.btntemizlegider.TabIndex = 26;
+            this.btntemizlegider.Text = "TEMİZLE";
+            this.btntemizlegider.Click += new System.EventHandler(this.btntemizlegider_Click);
             // 
-            // comboBox2
+            // btngüncellegider
             // 
-            this.comboBox2.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(109, 99);
-            this.comboBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(276, 31);
-            this.comboBox2.TabIndex = 22;
+            this.btngüncellegider.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btngüncellegider.ImageOptions.Image")));
+            this.btngüncellegider.Location = new System.Drawing.Point(33, 546);
+            this.btngüncellegider.Margin = new System.Windows.Forms.Padding(4);
+            this.btngüncellegider.Name = "btngüncellegider";
+            this.btngüncellegider.Size = new System.Drawing.Size(163, 54);
+            this.btngüncellegider.TabIndex = 25;
+            this.btngüncellegider.Text = "GÜNCELLE";
+            this.btngüncellegider.Click += new System.EventHandler(this.btngüncellegider_Click);
             // 
-            // comboBox1
+            // btnsilgider
             // 
-            this.comboBox1.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(109, 59);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(276, 31);
-            this.comboBox1.TabIndex = 21;
+            this.btnsilgider.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnsilgider.ImageOptions.Image")));
+            this.btnsilgider.Location = new System.Drawing.Point(205, 546);
+            this.btnsilgider.Margin = new System.Windows.Forms.Padding(4);
+            this.btnsilgider.Name = "btnsilgider";
+            this.btnsilgider.Size = new System.Drawing.Size(163, 54);
+            this.btnsilgider.TabIndex = 24;
+            this.btnsilgider.Text = "SİL";
+            this.btnsilgider.Click += new System.EventHandler(this.btnsilgider_Click);
             // 
-            // richTextBox1
+            // btnkaydetgider
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(109, 373);
-            this.richTextBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(276, 77);
-            this.richTextBox1.TabIndex = 20;
-            this.richTextBox1.Text = "";
+            this.btnkaydetgider.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnkaydetgider.ImageOptions.Image")));
+            this.btnkaydetgider.Location = new System.Drawing.Point(33, 485);
+            this.btnkaydetgider.Margin = new System.Windows.Forms.Padding(4);
+            this.btnkaydetgider.Name = "btnkaydetgider";
+            this.btnkaydetgider.Size = new System.Drawing.Size(163, 54);
+            this.btnkaydetgider.TabIndex = 23;
+            this.btnkaydetgider.Text = "KAYDET";
+            this.btnkaydetgider.Click += new System.EventHandler(this.btnkaydetgider_Click);
             // 
-            // textBox7
+            // rtxnotgider
             // 
-            this.textBox7.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.textBox7.Location = new System.Drawing.Point(109, 256);
-            this.textBox7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(276, 30);
-            this.textBox7.TabIndex = 18;
+            this.rtxnotgider.Location = new System.Drawing.Point(109, 367);
+            this.rtxnotgider.Margin = new System.Windows.Forms.Padding(4);
+            this.rtxnotgider.Name = "rtxnotgider";
+            this.rtxnotgider.Size = new System.Drawing.Size(276, 77);
+            this.rtxnotgider.TabIndex = 20;
+            this.rtxnotgider.Text = "";
             // 
-            // textBox8
+            // txtinternetgider
             // 
-            this.textBox8.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.textBox8.Location = new System.Drawing.Point(109, 295);
-            this.textBox8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(276, 30);
-            this.textBox8.TabIndex = 17;
+            this.txtinternetgider.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtinternetgider.Location = new System.Drawing.Point(109, 250);
+            this.txtinternetgider.Margin = new System.Windows.Forms.Padding(4);
+            this.txtinternetgider.Name = "txtinternetgider";
+            this.txtinternetgider.Size = new System.Drawing.Size(276, 30);
+            this.txtinternetgider.TabIndex = 18;
             // 
-            // textBox5
+            // txtmaaşgider
             // 
-            this.textBox5.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.textBox5.Location = new System.Drawing.Point(109, 178);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(276, 30);
-            this.textBox5.TabIndex = 16;
+            this.txtmaaşgider.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtmaaşgider.Location = new System.Drawing.Point(109, 289);
+            this.txtmaaşgider.Margin = new System.Windows.Forms.Padding(4);
+            this.txtmaaşgider.Name = "txtmaaşgider";
+            this.txtmaaşgider.Size = new System.Drawing.Size(276, 30);
+            this.txtmaaşgider.TabIndex = 17;
             // 
-            // textBox6
+            // txtsugider
             // 
-            this.textBox6.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.textBox6.Location = new System.Drawing.Point(109, 217);
-            this.textBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(276, 30);
-            this.textBox6.TabIndex = 15;
+            this.txtsugider.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtsugider.Location = new System.Drawing.Point(109, 172);
+            this.txtsugider.Margin = new System.Windows.Forms.Padding(4);
+            this.txtsugider.Name = "txtsugider";
+            this.txtsugider.Size = new System.Drawing.Size(276, 30);
+            this.txtsugider.TabIndex = 16;
             // 
-            // textBox3
+            // txtdoğalgazgider
             // 
-            this.textBox3.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.textBox3.Location = new System.Drawing.Point(109, 139);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(276, 30);
-            this.textBox3.TabIndex = 14;
+            this.txtdoğalgazgider.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtdoğalgazgider.Location = new System.Drawing.Point(109, 211);
+            this.txtdoğalgazgider.Margin = new System.Windows.Forms.Padding(4);
+            this.txtdoğalgazgider.Name = "txtdoğalgazgider";
+            this.txtdoğalgazgider.Size = new System.Drawing.Size(276, 30);
+            this.txtdoğalgazgider.TabIndex = 15;
             // 
-            // textBox1
+            // txtelektrikgider
             // 
-            this.textBox1.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.textBox1.Location = new System.Drawing.Point(109, 20);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(276, 30);
-            this.textBox1.TabIndex = 11;
+            this.txtelektrikgider.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtelektrikgider.Location = new System.Drawing.Point(109, 133);
+            this.txtelektrikgider.Margin = new System.Windows.Forms.Padding(4);
+            this.txtelektrikgider.Name = "txtelektrikgider";
+            this.txtelektrikgider.Size = new System.Drawing.Size(276, 30);
+            this.txtelektrikgider.TabIndex = 14;
+            // 
+            // txtIDgider
+            // 
+            this.txtIDgider.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtIDgider.Location = new System.Drawing.Point(109, 20);
+            this.txtIDgider.Margin = new System.Windows.Forms.Padding(4);
+            this.txtIDgider.Name = "txtIDgider";
+            this.txtIDgider.Size = new System.Drawing.Size(276, 30);
+            this.txtIDgider.TabIndex = 11;
             // 
             // labelControl10
             // 
             this.labelControl10.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelControl10.Appearance.Options.UseFont = true;
-            this.labelControl10.Location = new System.Drawing.Point(37, 379);
-            this.labelControl10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelControl10.Location = new System.Drawing.Point(37, 373);
+            this.labelControl10.Margin = new System.Windows.Forms.Padding(4);
             this.labelControl10.Name = "labelControl10";
             this.labelControl10.Size = new System.Drawing.Size(63, 23);
             this.labelControl10.TabIndex = 9;
@@ -232,8 +289,8 @@
             // 
             this.labelControl9.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelControl9.Appearance.Options.UseFont = true;
-            this.labelControl9.Location = new System.Drawing.Point(35, 338);
-            this.labelControl9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelControl9.Location = new System.Drawing.Point(35, 334);
+            this.labelControl9.Margin = new System.Windows.Forms.Padding(4);
             this.labelControl9.Name = "labelControl9";
             this.labelControl9.Size = new System.Drawing.Size(64, 23);
             this.labelControl9.TabIndex = 8;
@@ -243,8 +300,8 @@
             // 
             this.labelControl8.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelControl8.Appearance.Options.UseFont = true;
-            this.labelControl8.Location = new System.Drawing.Point(21, 299);
-            this.labelControl8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelControl8.Location = new System.Drawing.Point(21, 295);
+            this.labelControl8.Margin = new System.Windows.Forms.Padding(4);
             this.labelControl8.Name = "labelControl8";
             this.labelControl8.Size = new System.Drawing.Size(77, 23);
             this.labelControl8.TabIndex = 7;
@@ -254,8 +311,8 @@
             // 
             this.labelControl7.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelControl7.Appearance.Options.UseFont = true;
-            this.labelControl7.Location = new System.Drawing.Point(17, 260);
-            this.labelControl7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelControl7.Location = new System.Drawing.Point(17, 256);
+            this.labelControl7.Margin = new System.Windows.Forms.Padding(4);
             this.labelControl7.Name = "labelControl7";
             this.labelControl7.Size = new System.Drawing.Size(81, 23);
             this.labelControl7.TabIndex = 6;
@@ -265,8 +322,8 @@
             // 
             this.labelControl6.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelControl6.Appearance.Options.UseFont = true;
-            this.labelControl6.Location = new System.Drawing.Point(9, 220);
-            this.labelControl6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelControl6.Location = new System.Drawing.Point(9, 217);
+            this.labelControl6.Margin = new System.Windows.Forms.Padding(4);
             this.labelControl6.Name = "labelControl6";
             this.labelControl6.Size = new System.Drawing.Size(90, 23);
             this.labelControl6.TabIndex = 5;
@@ -276,8 +333,8 @@
             // 
             this.labelControl5.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelControl5.Appearance.Options.UseFont = true;
-            this.labelControl5.Location = new System.Drawing.Point(67, 181);
-            this.labelControl5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelControl5.Location = new System.Drawing.Point(67, 178);
+            this.labelControl5.Margin = new System.Windows.Forms.Padding(4);
             this.labelControl5.Name = "labelControl5";
             this.labelControl5.Size = new System.Drawing.Size(35, 23);
             this.labelControl5.TabIndex = 4;
@@ -287,8 +344,8 @@
             // 
             this.labelControl4.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelControl4.Appearance.Options.UseFont = true;
-            this.labelControl4.Location = new System.Drawing.Point(29, 142);
-            this.labelControl4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelControl4.Location = new System.Drawing.Point(29, 139);
+            this.labelControl4.Margin = new System.Windows.Forms.Padding(4);
             this.labelControl4.Name = "labelControl4";
             this.labelControl4.Size = new System.Drawing.Size(73, 23);
             this.labelControl4.TabIndex = 3;
@@ -298,8 +355,8 @@
             // 
             this.labelControl3.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelControl3.Appearance.Options.UseFont = true;
-            this.labelControl3.Location = new System.Drawing.Point(69, 102);
-            this.labelControl3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelControl3.Location = new System.Drawing.Point(69, 100);
+            this.labelControl3.Margin = new System.Windows.Forms.Padding(4);
             this.labelControl3.Name = "labelControl3";
             this.labelControl3.Size = new System.Drawing.Size(32, 23);
             this.labelControl3.TabIndex = 2;
@@ -309,8 +366,8 @@
             // 
             this.labelControl2.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelControl2.Appearance.Options.UseFont = true;
-            this.labelControl2.Location = new System.Drawing.Point(65, 63);
-            this.labelControl2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelControl2.Location = new System.Drawing.Point(65, 61);
+            this.labelControl2.Margin = new System.Windows.Forms.Padding(4);
             this.labelControl2.Name = "labelControl2";
             this.labelControl2.Size = new System.Drawing.Size(33, 23);
             this.labelControl2.TabIndex = 1;
@@ -321,55 +378,66 @@
             this.labelControl1.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelControl1.Appearance.Options.UseFont = true;
             this.labelControl1.Location = new System.Drawing.Point(63, 22);
-            this.labelControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelControl1.Margin = new System.Windows.Forms.Padding(4);
             this.labelControl1.Name = "labelControl1";
             this.labelControl1.Size = new System.Drawing.Size(33, 23);
             this.labelControl1.TabIndex = 0;
             this.labelControl1.Text = "ID :";
             // 
-            // gridControl1
+            // gridControlgider
             // 
-            this.gridControl1.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.gridControl1.Location = new System.Drawing.Point(419, 1);
-            this.gridControl1.MainView = this.gridView1;
-            this.gridControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.gridControl1.Name = "gridControl1";
-            this.gridControl1.Size = new System.Drawing.Size(1385, 628);
-            this.gridControl1.TabIndex = 1;
-            this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.gridView1});
+            this.gridControlgider.DataSource = this.stokveritabaniDataSetBindingSource;
+            this.gridControlgider.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
+            this.gridControlgider.Location = new System.Drawing.Point(419, 1);
+            this.gridControlgider.MainView = this.gridViewgider;
+            this.gridControlgider.Margin = new System.Windows.Forms.Padding(4);
+            this.gridControlgider.Name = "gridControlgider";
+            this.gridControlgider.Size = new System.Drawing.Size(1385, 628);
+            this.gridControlgider.TabIndex = 1;
+            this.gridControlgider.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.gridViewgider});
             // 
-            // gridView1
+            // stokveritabaniDataSetBindingSource
             // 
-            this.gridView1.DetailHeight = 431;
-            this.gridView1.GridControl = this.gridControl1;
-            this.gridView1.Name = "gridView1";
-            this.gridView1.OptionsView.ShowGroupPanel = false;
+            this.stokveritabaniDataSetBindingSource.DataSource = this.stok_veritabaniDataSet;
+            this.stokveritabaniDataSetBindingSource.Position = 0;
             // 
-            // textBox2
+            // stok_veritabaniDataSet
             // 
-            this.textBox2.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.textBox2.Location = new System.Drawing.Point(109, 334);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(276, 30);
-            this.textBox2.TabIndex = 27;
+            this.stok_veritabaniDataSet.DataSetName = "stok_veritabaniDataSet";
+            this.stok_veritabaniDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // gridViewgider
+            // 
+            this.gridViewgider.Appearance.Row.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.gridViewgider.Appearance.Row.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.gridViewgider.Appearance.Row.Options.UseBackColor = true;
+            this.gridViewgider.DetailHeight = 431;
+            this.gridViewgider.GridControl = this.gridControlgider;
+            this.gridViewgider.Name = "gridViewgider";
+            this.gridViewgider.OptionsView.ShowGroupPanel = false;
+            this.gridViewgider.FocusedRowObjectChanged += new DevExpress.XtraGrid.Views.Base.FocusedRowObjectChangedEventHandler(this.gridViewgider_FocusedRowObjectChanged);
             // 
             // FrmGiderler
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1805, 629);
-            this.Controls.Add(this.gridControl1);
+            this.Controls.Add(this.gridControlgider);
             this.Controls.Add(this.panelControl1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmGiderler";
             this.Text = "Giderler";
+            this.Load += new System.EventHandler(this.FrmGiderler_Load);
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).EndInit();
             this.panelControl1.ResumeLayout(false);
             this.panelControl1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cmbyılgider.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cmbaygider.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridControlgider)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.stokveritabaniDataSetBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.stok_veritabaniDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridViewgider)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -377,13 +445,13 @@
         #endregion
 
         private DevExpress.XtraEditors.PanelControl panelControl1;
-        private System.Windows.Forms.RichTextBox richTextBox1;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.RichTextBox rtxnotgider;
+        private System.Windows.Forms.TextBox txtinternetgider;
+        private System.Windows.Forms.TextBox txtmaaşgider;
+        private System.Windows.Forms.TextBox txtsugider;
+        private System.Windows.Forms.TextBox txtdoğalgazgider;
+        private System.Windows.Forms.TextBox txtelektrikgider;
+        private System.Windows.Forms.TextBox txtIDgider;
         private DevExpress.XtraEditors.LabelControl labelControl10;
         private DevExpress.XtraEditors.LabelControl labelControl9;
         private DevExpress.XtraEditors.LabelControl labelControl8;
@@ -394,14 +462,16 @@
         private DevExpress.XtraEditors.LabelControl labelControl3;
         private DevExpress.XtraEditors.LabelControl labelControl2;
         private DevExpress.XtraEditors.LabelControl labelControl1;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private DevExpress.XtraEditors.SimpleButton simpleButton4;
-        private DevExpress.XtraEditors.SimpleButton simpleButton3;
-        private DevExpress.XtraEditors.SimpleButton simpleButton2;
-        private DevExpress.XtraEditors.SimpleButton simpleButton1;
-        private DevExpress.XtraGrid.GridControl gridControl1;
-        private DevExpress.XtraGrid.Views.Grid.GridView gridView1;
-        private System.Windows.Forms.TextBox textBox2;
+        private DevExpress.XtraEditors.SimpleButton btntemizlegider;
+        private DevExpress.XtraEditors.SimpleButton btngüncellegider;
+        private DevExpress.XtraEditors.SimpleButton btnsilgider;
+        private DevExpress.XtraEditors.SimpleButton btnkaydetgider;
+        private DevExpress.XtraGrid.GridControl gridControlgider;
+        private DevExpress.XtraGrid.Views.Grid.GridView gridViewgider;
+        private System.Windows.Forms.TextBox txtekstragider;
+        private DevExpress.XtraEditors.ComboBoxEdit cmbyılgider;
+        private DevExpress.XtraEditors.ComboBoxEdit cmbaygider;
+        private System.Windows.Forms.BindingSource stokveritabaniDataSetBindingSource;
+        private stok_veritabaniDataSet stok_veritabaniDataSet;
     }
 }

@@ -126,9 +126,9 @@
             // btngüncellefirma
             // 
             this.btngüncellefirma.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btngüncellefirma.ImageOptions.Image")));
-            this.btngüncellefirma.Location = new System.Drawing.Point(289, 518);
+            this.btngüncellefirma.Location = new System.Drawing.Point(289, 525);
             this.btngüncellefirma.Name = "btngüncellefirma";
-            this.btngüncellefirma.Size = new System.Drawing.Size(197, 46);
+            this.btngüncellefirma.Size = new System.Drawing.Size(163, 54);
             this.btngüncellefirma.TabIndex = 7;
             this.btngüncellefirma.Text = "GÜNCELLE";
             this.btngüncellefirma.Click += new System.EventHandler(this.btngüncellefirma_Click);
@@ -136,9 +136,9 @@
             // btnsilfirma
             // 
             this.btnsilfirma.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnsilfirma.ImageOptions.Image")));
-            this.btnsilfirma.Location = new System.Drawing.Point(35, 518);
+            this.btnsilfirma.Location = new System.Drawing.Point(102, 525);
             this.btnsilfirma.Name = "btnsilfirma";
-            this.btnsilfirma.Size = new System.Drawing.Size(197, 46);
+            this.btnsilfirma.Size = new System.Drawing.Size(163, 54);
             this.btnsilfirma.TabIndex = 6;
             this.btnsilfirma.Text = "SİL";
             this.btnsilfirma.Click += new System.EventHandler(this.btnsilfirma_Click);
@@ -146,9 +146,9 @@
             // btnkaydetfirma
             // 
             this.btnkaydetfirma.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnkaydetfirma.ImageOptions.Image")));
-            this.btnkaydetfirma.Location = new System.Drawing.Point(35, 465);
+            this.btnkaydetfirma.Location = new System.Drawing.Point(102, 465);
             this.btnkaydetfirma.Name = "btnkaydetfirma";
-            this.btnkaydetfirma.Size = new System.Drawing.Size(197, 46);
+            this.btnkaydetfirma.Size = new System.Drawing.Size(163, 54);
             this.btnkaydetfirma.TabIndex = 5;
             this.btnkaydetfirma.Text = "KAYDET";
             this.btnkaydetfirma.Click += new System.EventHandler(this.btnkaydetfirma_Click);
@@ -281,10 +281,10 @@
             // 
             // btntemizlefirma
             // 
-            this.btntemizlefirma.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image")));
+            this.btntemizlefirma.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btntemizlefirma.ImageOptions.Image")));
             this.btntemizlefirma.Location = new System.Drawing.Point(289, 465);
             this.btntemizlefirma.Name = "btntemizlefirma";
-            this.btntemizlefirma.Size = new System.Drawing.Size(197, 46);
+            this.btntemizlefirma.Size = new System.Drawing.Size(163, 54);
             this.btntemizlefirma.TabIndex = 15;
             this.btntemizlefirma.Text = "TEMİZLE";
             this.btntemizlefirma.Click += new System.EventHandler(this.btntemizlefirma_Click);

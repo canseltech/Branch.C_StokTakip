@@ -28,46 +28,72 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.gridControl1 = new DevExpress.XtraGrid.GridControl();
-            this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
-            ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
+            this.components = new System.ComponentModel.Container();
+            this.gridControlfirmasec = new DevExpress.XtraGrid.GridControl();
+            this.stokveritabaniDataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.stok_veritabaniDataSet = new Stok_Takip_Sistemi.stok_veritabaniDataSet();
+            this.gridViewfirmasec = new DevExpress.XtraGrid.Views.Grid.GridView();
+            ((System.ComponentModel.ISupportInitialize)(this.gridControlfirmasec)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.stokveritabaniDataSetBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.stok_veritabaniDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridViewfirmasec)).BeginInit();
             this.SuspendLayout();
             // 
-            // gridControl1
+            // gridControlfirmasec
             // 
-            this.gridControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gridControl1.Location = new System.Drawing.Point(0, 0);
-            this.gridControl1.MainView = this.gridView1;
-            this.gridControl1.Name = "gridControl1";
-            this.gridControl1.Size = new System.Drawing.Size(333, 314);
-            this.gridControl1.TabIndex = 0;
-            this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.gridView1});
+            this.gridControlfirmasec.DataSource = this.stokveritabaniDataSetBindingSource;
+            this.gridControlfirmasec.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gridControlfirmasec.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
+            this.gridControlfirmasec.Location = new System.Drawing.Point(0, 0);
+            this.gridControlfirmasec.MainView = this.gridViewfirmasec;
+            this.gridControlfirmasec.Margin = new System.Windows.Forms.Padding(4);
+            this.gridControlfirmasec.Name = "gridControlfirmasec";
+            this.gridControlfirmasec.Size = new System.Drawing.Size(444, 386);
+            this.gridControlfirmasec.TabIndex = 0;
+            this.gridControlfirmasec.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.gridViewfirmasec});
             // 
-            // gridView1
+            // stokveritabaniDataSetBindingSource
             // 
-            this.gridView1.GridControl = this.gridControl1;
-            this.gridView1.Name = "gridView1";
-            this.gridView1.OptionsView.ShowGroupPanel = false;
+            this.stokveritabaniDataSetBindingSource.DataSource = this.stok_veritabaniDataSet;
+            this.stokveritabaniDataSetBindingSource.Position = 0;
+            // 
+            // stok_veritabaniDataSet
+            // 
+            this.stok_veritabaniDataSet.DataSetName = "stok_veritabaniDataSet";
+            this.stok_veritabaniDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // gridViewfirmasec
+            // 
+            this.gridViewfirmasec.DetailHeight = 431;
+            this.gridViewfirmasec.GridControl = this.gridControlfirmasec;
+            this.gridViewfirmasec.Name = "gridViewfirmasec";
+            this.gridViewfirmasec.OptionsView.ShowGroupPanel = false;
+//            this.gridViewfirmasec.FocusedRowObjectChanged += new DevExpress.XtraGrid.Views.Base.FocusedRowObjectChangedEventHandler(this.gridViewfirmasec_FocusedRowObjectChanged);
             // 
             // FrmFirmaSec
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(333, 314);
-            this.Controls.Add(this.gridControl1);
+            this.ClientSize = new System.Drawing.Size(444, 386);
+            this.Controls.Add(this.gridControlfirmasec);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmFirmaSec";
             this.Text = "Firma Seçiniz";
-            ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
+            this.Load += new System.EventHandler(this.FrmFirmaSec_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.gridControlfirmasec)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.stokveritabaniDataSetBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.stok_veritabaniDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridViewfirmasec)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private DevExpress.XtraGrid.GridControl gridControl1;
-        private DevExpress.XtraGrid.Views.Grid.GridView gridView1;
+        private DevExpress.XtraGrid.GridControl gridControlfirmasec;
+        private DevExpress.XtraGrid.Views.Grid.GridView gridViewfirmasec;
+        private System.Windows.Forms.BindingSource stokveritabaniDataSetBindingSource;
+        private stok_veritabaniDataSet stok_veritabaniDataSet;
     }
 }

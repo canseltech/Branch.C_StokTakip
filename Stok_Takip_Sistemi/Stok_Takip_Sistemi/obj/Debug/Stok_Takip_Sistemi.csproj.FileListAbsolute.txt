@@ -432,3 +432,16 @@ C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\
 C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.csproj.CopyComplete
 C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.exe
 C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\Debug\Stok_Takip_Sistemi.pdb
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\lenovo\source\Branch.C_StokTakip\Branch.C_StokTakip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
